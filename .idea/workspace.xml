@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3554980-62ff-4b32-8699-3dbfb457ecd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/andrt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/css/article.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/img/dpb-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/js/fold-post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/js/helloworld.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/auth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/create_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/db_blog.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/articles/templates/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/articles/templates/archive.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +16,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/articles/static/js/helloworld.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="57" column="7" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+            <state relative-caret-position="969">
+              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -59,10 +30,7 @@
         <entry file="file://$PROJECT_DIR$/blog/articles/templates/archive.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="186">
-              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -198,12 +166,21 @@
       <updated>1555610569909</updated>
       <workItem from="1555610572653" duration="1140000" />
       <workItem from="1555788173423" duration="531000" />
-      <workItem from="1556111698804" duration="2867000" />
+      <workItem from="1556111698804" duration="3177000" />
+      <workItem from="1556214493675" duration="292000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1556115890197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556115890198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4538000" />
+    <option name="totallyTimeSpent" value="5140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -228,7 +205,6 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="PsiViewer" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -239,22 +215,20 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="PsiViewer" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1537" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/articles/static/js/helloworld.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="57" column="7" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../lab7-master/blog/articles/templates/archive.html">
@@ -281,13 +255,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/articles/static/js/helloworld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/lab7.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog/articles/templates/archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
